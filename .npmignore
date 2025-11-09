@@ -1,0 +1,11 @@
+tests/
+coverage/
+.env
+.env.*
+*.log
+node_modules/
+.DS_Store
+.vscode/
+.idea/
+*.test.js
+test-*.js

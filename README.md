@@ -57,6 +57,11 @@ Environment variables:
 - `STATELESSOR_API_URL` - API endpoint (default: http://localhost:3001)
 - `STATELESSOR_API_TIMEOUT` - Request timeout in ms (default: 300000)
 
+## Additional details
+
+Read USER_GUIDE.md for more details
+Read INTEGRATION.md as well for additional information
+
 ## License
 
 MIT
