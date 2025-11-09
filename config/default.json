@@ -1,0 +1,13 @@
+{
+  "api": {
+    "baseUrl": "http://localhost:3001",
+    "timeout": 300000
+  },
+  "server": {
+    "name": "statelessor",
+    "version": "1.0.0"
+  },
+  "limits": {
+    "maxProjectSizeMB": 100
+  }
+}
