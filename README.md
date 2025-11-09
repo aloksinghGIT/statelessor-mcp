@@ -2,6 +2,10 @@
 
 MCP (Model Context Protocol) server for analyzing .NET and Java projects for stateful code patterns. Integrates with Amazon Q Developer.
 
+<a href="https://glama.ai/mcp/servers/@aloksinghGIT/statelessor-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@aloksinghGIT/statelessor-mcp/badge" alt="Statelessor Server MCP server" />
+</a>
+
 ## Installation
 
 ```bash
